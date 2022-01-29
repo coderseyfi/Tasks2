@@ -1,0 +1,19 @@
+﻿program GetPercent
+
+READ a
+
+IF a < 1000 && a >= 100 THEN
+
+SET a = a * 10 + 7
+    a = (a * 7) / 100
+
+  DISPLAY a
+
+ELSE 
+   
+   DISPLAY 3 reqemli deyil
+
+ENDIF
+
+
+end program 

@@ -1,0 +1,16 @@
+D:\C# Tasks\20220122-Task-2\task-12\bin\Debug\net5.0\task-12.exe
+D:\C# Tasks\20220122-Task-2\task-12\bin\Debug\net5.0\task-12.deps.json
+D:\C# Tasks\20220122-Task-2\task-12\bin\Debug\net5.0\task-12.runtimeconfig.json
+D:\C# Tasks\20220122-Task-2\task-12\bin\Debug\net5.0\task-12.runtimeconfig.dev.json
+D:\C# Tasks\20220122-Task-2\task-12\bin\Debug\net5.0\task-12.dll
+D:\C# Tasks\20220122-Task-2\task-12\bin\Debug\net5.0\ref\task-12.dll
+D:\C# Tasks\20220122-Task-2\task-12\bin\Debug\net5.0\task-12.pdb
+D:\C# Tasks\20220122-Task-2\task-12\obj\Debug\net5.0\task-12.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Tasks\20220122-Task-2\task-12\obj\Debug\net5.0\task-12.AssemblyInfoInputs.cache
+D:\C# Tasks\20220122-Task-2\task-12\obj\Debug\net5.0\task-12.AssemblyInfo.cs
+D:\C# Tasks\20220122-Task-2\task-12\obj\Debug\net5.0\task-12.csproj.CoreCompileInputs.cache
+D:\C# Tasks\20220122-Task-2\task-12\obj\Debug\net5.0\task-12.dll
+D:\C# Tasks\20220122-Task-2\task-12\obj\Debug\net5.0\ref\task-12.dll
+D:\C# Tasks\20220122-Task-2\task-12\obj\Debug\net5.0\task-12.pdb
+D:\C# Tasks\20220122-Task-2\task-12\obj\Debug\net5.0\task-12.genruntimeconfig.cache
+D:\C# Tasks\20220122-Task-2\task-12\obj\Debug\net5.0\task-12.csproj.AssemblyReference.cache

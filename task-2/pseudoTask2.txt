@@ -1,0 +1,17 @@
+﻿program SolveTask2
+
+READ a
+
+IF a >= 100 && a < 1000 THEN
+
+SET a = a*1000 + 444
+
+     DISPLAY a 
+
+ELSE 
+
+     DISPLAY 3 reqemli deyil
+
+ENDIF
+
+end program

@@ -1,0 +1,19 @@
+﻿program SolveTask1
+
+READ a
+
+IF a >= 1000 and a < 10000 THEN
+
+INIT  a = a + 70000
+      a = a*10 + 8
+
+     DISPLAY a
+
+ELSE 
+
+     DISPLAY 4 reqemli deyil
+
+ENDIF
+
+
+end program
